@@ -29,11 +29,13 @@ The code is designed to be simple and educational, demonstrating the core concep
 ### Requirements
 - Python 3.x
 - NumPy
+- PyTorch
 
 Install dependencies:
 ```bash
 pip install numpy
 pip install matplotlib
+pip install torch
 ```
 ## Usage:
 
