@@ -36,7 +36,7 @@ _ = visualize_classification(model, test_dataset.data, test_dataset.label)
 
 
     
-![png](imgs/output_2_0.png)
+![png](output_2_0.png)
     
 
 
@@ -52,6 +52,6 @@ _ = visualize_classification(model, test_dataset.data, test_dataset.label)
 
 
     
-![png](imgs/output_3_1.png)
+![png](output_3_1.png)
     
 
